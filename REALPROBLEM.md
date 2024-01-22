@@ -10,6 +10,7 @@ Improvement
 - Should have a worker/cron to generate new codes when `available_codes` table is empty
 - Should have a worker/cron to remove expired shortener URL
 - Apply soft-delete on `available_codes` table to reuse removed codes
+- Implement authentication and authorization
 
 Potential attack vectors
 
